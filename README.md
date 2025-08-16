@@ -26,51 +26,51 @@ Hostel-Electricity-Logger/
 Make sure you have Python installed (**>=3.7**).  
 Install the required libraries using **pip**:
 
-▶️ How to Run
+##  ▶️ How to Run
 
-Clone or download this repository.
+- Clone or download this repository.
 
-Ensure you have a CSV file named electricity_usage.csv with columns:
+- Ensure you have a CSV file named electricity_usage.csv with columns:
 
 Room,Date,Units
 
 
-Run the Python script:
+- Run the Python script:
 
 python main.py
 
 
-Follow the menu to:
+- Follow the menu to:
 
-✅ Log new usage
+## ✅ Log new usage
 
-📊 Analyze monthly reports
+## 📊 Analyze monthly reports
 
-📉 Generate visualizations
+## 📉 Generate visualizations
 
-📊 Sample CSV File (electricity_usage.csv)
+## 📊 Sample CSV File (electricity_usage.csv)
 Room,Date,Units
 101,2025-07-01,12
 102,2025-07-01,15
 103,2025-07-01,18
 
-📈 Sample Output
+## 📈 Sample Output
 
-Monthly Summary Table (via Pandas)
+- Monthly Summary Table (via Pandas)
 
-Bar Chart showing room-wise electricity consumption
+- Bar Chart showing room-wise electricity consumption
 
-🚨 Rooms exceeding the threshold are highlighted
+- 🚨 Rooms exceeding the threshold are highlighted
 
-🚀 Future Enhancements
+- 🚀 Future Enhancements
 
-🖥️ Add GUI support (Tkinter/Streamlit)
+- 🖥️ Add GUI support (Tkinter/Streamlit)
 
-⚡ Automate daily logging via a web form
+- ⚡ Automate daily logging via a web form
 
-📑 Export reports in Excel/PDF formats
+- 📑 Export reports in Excel/PDF formats
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by Rushal Nikam
 For educational and hostel management use.
